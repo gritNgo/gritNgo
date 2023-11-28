@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+💻 I’m a software developer most confortable with the JavaScript stack.
+🏡 I am based in Germany, Berlin.
+🧩 I enjoy long runs, reading about tech and gaming.
+🙆‍♀️ Pronouns: he/him.
+🔎 I’m currently building a platform that helps developers get their technical skills to the next level.
+<li>✨ Fun fact: I grew up in Spain and love spanish food.</li>
