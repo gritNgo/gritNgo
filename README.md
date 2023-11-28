@@ -1,4 +1,4 @@
-### Hi there I'm Fio 😊
+### Hi, I'm Fio 😊
 
 <!--
 **gritNgo/gritNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
