@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <li>💻 I’m a software developer most comfortable with the JavaScript stack.</li>
 <li>🏡 I am based in London (soon Netherlands 🤞🏽)</li>
-<li>🧩 I enjoy exercising, learning about tech, and practicing my electric guitar (to play gisg in the future 🤘🏾)</li>
+<li>🧩 I enjoy exercising, learning about tech, and practicing my electric guitar (to play gigs with my future band 🤘🏾)</li>
 <li>🙆‍♀️ Pronouns: he/him.</li>
 <li>🔎 I’m currently building my portfolio which includes my biggest React project yet.</li>
 
