@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi, I'm Fio 😊</h1>
 
+<li>💻 I’m a software developer most comfortable with the JavaScript stack.</li>
+<li>🏡 I am based in London (soon Netherlands 🤞🏽)</li>
+<li>🧩 I enjoy exercising, learning about tech, and practicing my electric guitar (to play gisg in the future 🤘🏾)</li>
+<li>🙆‍♀️ Pronouns: he/him.</li>
+<li>🔎 I’m currently building my portfolio which includes my biggest React project yet.</li>
 
-💻 I’m a software developer most confortable with the JavaScript stack.
-🏡 I am based in Germany, Berlin.
-🧩 I enjoy long runs, reading about tech and gaming.
-🙆‍♀️ Pronouns: he/him.
-🔎 I’m currently building a platform that helps developers get their technical skills to the next level.
-<li>✨ Fun fact: I grew up in Spain and love spanish food.</li>
