@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Fio 😊
 
 <!--
 **gritNgo/gritNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Fio 😊</h1>
 
 <li>💻 I’m a software developer most comfortable with the JavaScript stack.</li>
 <li>🏡 I am based in London (soon Netherlands 🤞🏽)</li>
