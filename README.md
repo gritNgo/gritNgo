@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<li>💻 I’m a software developer most comfortable with the MERN stack.</li>
-<li>🏡 I am based in London </li>  
-<li>🧩 I enjoy exercising, learning about tech, and practicing my electric guitar (to play gigs with my band 🤘🏾)</li>
-<li>🙆‍♀️ Pronouns: he/him.</li>
-<li>🔎 I’m currently building my portfolio which includes my biggest React project yet.</li>      
+<li>💻 I’m a web developer currently mastering Next.js.</li>
+<li>🏡 I am based in Netherlands </li>  
+<li>🧩 I enjoy martial arts, learning about tech, and practicing my electric guitar to play gigs with my band 🤘🏾</li>
 
