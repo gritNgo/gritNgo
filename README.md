@@ -4,7 +4,7 @@
 <h3 align="center">An agile web developer from the Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p6ZWN4bWo3Nm1iZm15aWt6bHNlZHBtanhtbjlvbDVtcWo3YW9xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-- 🔭 I’m currently working on [nextapp](github.com/gritNgo/nextapp)
+- 🔭 I’m currently working on [nextapp](gritNgo/nextapp)
 
 - 🌱 I’m currently learning **Next.js, React Native, and WebRTC**
 
