@@ -4,7 +4,7 @@
 
 - 🔭 Working on the full-stack [nextapp](https://github.com/gritNgo/nextapp) & [decibels](https://github.com/gritNgo/decibels)
 
-- 🌱 Learning **Next.js, React Native, and WebRTC**
+- 🌱 Learning **Next.js & TypeScript**
 
 - 💬 Ask me about **Next.js, MERN, Web Development**
 <p align="left">
