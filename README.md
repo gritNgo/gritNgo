@@ -1,5 +1,5 @@
 # 💫 About Me
-<p>Hi 👋 I'm Fiorenso, an agile frontend developer from the Netherlands that's currently working on becoming a solid full-stack developer.</p>
+<p>Hi 👋 I'm Fiorenso, a junior Full Stack JavaScript developer on the journey to become an expert in the field.</p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p6ZWN4bWo3Nm1iZm15aWt6bHNlZHBtanhtbjlvbDVtcWo3YW9xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 - 🔭 Working on the full-stack [nextapp](https://github.com/gritNgo/nextapp)
