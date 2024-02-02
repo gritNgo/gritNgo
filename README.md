@@ -6,7 +6,7 @@
 
 - 🌱 Learning **Next.js & TypeScript**
 
-- 💬 Ask me about **Next.js, MERN, Web Development**
+- 💬 Ask me about **Next.js, MERN**
 <p align="left">
 </p>
 
