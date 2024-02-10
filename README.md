@@ -29,6 +29,5 @@
 <br>
 <br>
 
-## 📧 Contact me <a href="mailto:fiorenso.fernando8@gmail.com">dustspeck00@gmail.com</a>
+## 📧 Contact me <a href="mailto:dustspeck00@gmail.com">dustspeck00@gmail.com</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gritNgo)](https://git.io/streak-stats)
