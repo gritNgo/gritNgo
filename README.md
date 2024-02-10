@@ -27,6 +27,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br>
+<br>
 
 ## 📧 Contact me <a href="mailto:fiorenso.fernando8@gmail.com">dustspeck00@gmail.com</a>
 
