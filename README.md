@@ -1,7 +1,7 @@
 # 💫 About Me
 <p>Hi 👋 I'm Fiorenso, a junior Full Stack JavaScript developer on the journey to become an expert in the field.</p>
 
-- 🔭 Working on Next.js [portfolio](https://github.com/gritNgo/portfolio) & [ballcatcher](https://github.com/gritNgo/ballcatcher) 
+- 🔭 Working on Next.js [portfolio](https://github.com/gritNgo/portfolio) & [yako-ecommerce](https://github.com/gritNgo/yako-ecommerce)  & [ballcatcher](https://github.com/gritNgo/ballcatcher) 
 - 💬 Ask me about **MERN, Next.js**
 <p align="left">
 </p>
