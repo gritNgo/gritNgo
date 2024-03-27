@@ -1,11 +1,6 @@
 # 💫 About Me
 <p>Hi 👋 I'm Fiorenso, a junior Full Stack JavaScript developer on the journey to become an expert in the field.</p>
 
-- 🔭 Working on Next.js [rocketz](https://github.com/gritNgo/rocketz)  & [yako-ecommerce](https://github.com/gritNgo/yako-ecommerce)  
-- 💬 Ask me about **MERN, Next.js**
-<p align="left">
-</p>
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiorenso-wattalage-fernando/)
 
@@ -23,8 +18,5 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br>
-<br>
 
-## 📧 Contact me <a href="mailto:dustspeck00@gmail.com">dustspeck00@gmail.com</a>
 
