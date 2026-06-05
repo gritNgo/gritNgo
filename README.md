@@ -1,10 +1,10 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working as a **Software Architect**, specializing in enterprise cloud migrations
+- 🔭 Currently working as a **Software Architect**, specializing in decoupling monolithic systems and digital transformation
 - 🌱 Advanced focuses: Continuous delivery optimization, token-based OIDC identity federation, and automated integration testing patterns
 - 💡 Passionate about **Clean Architecture**, **Domain-Driven Design (DDD)**, containerized ecosystems, and building stateless RESTful APIs
-- 🧠 AI-First Mindset: Actively exploring and integrating intelligent components, agentic workflows, and cloud-hosted LLM services into decoupled .NET backend ecosystems.
+- 🧠 AI-First Mindset: Actively exploring and integrating intelligent components, agentic workflows, and cloud-hosted LLM services into decoupled .NET backend ecosystems
 - 🤝 Open to collaborate on high-performance backend engineering, cloud automation, and full-stack architecture
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fiorenso-wattalage-fernando/)
 
